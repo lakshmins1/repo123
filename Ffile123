@@ -2,10 +2,6 @@ public class test
 {
 public static void main (String args[])
 {
-<<<<<<< Updated upstream
-Sytem.out.println("i stay inf usa country");
-=======
 Sytem.out.println("i stay country inf usa");
->>>>>>> Stashed changes
 }
 }
