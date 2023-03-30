@@ -2,6 +2,6 @@ public class test
 {
 public static void main (String args[])
 {
-Sytem.out.println("heelo");
+Sytem.out.println("i am from india");
 }
 }
