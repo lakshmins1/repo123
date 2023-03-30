@@ -2,6 +2,8 @@ public class test
 {
 public static void main (String args[])
 {
-Sytem.out.println("i stay japans country inf usa");
+
+Sytem.out.println("i stay japanw country inf usa");
+
 }
 }
